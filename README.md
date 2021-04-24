@@ -10,3 +10,7 @@ dp-wsh-labのOrganization以下に個人用のレポジトリを作成してそ�
 
 ## 輪講課題
 [dropbox](https://paper.dropbox.com/doc/2020--Ax9GPfk5XYiDUBt43rtDBNVQAQ-jCw1o8efDZOBYD2uoxzQi)
+
+## ディレクトリの使い方
+教科書の内容に関連して作成したコードを分野ごとにディレクトリに分けて置くことを勧める。  
+他の人が見やすいし、後期に見返すときに振り返りやすい。
