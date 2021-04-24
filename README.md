@@ -15,6 +15,10 @@ dp-wsh-labのOrganization以下に個人用のレポジトリを作成してそ�
 教科書の内容に関連して作成したコードを分野ごとにディレクトリに分けて置くことを勧める。  
 他の人が見やすいし、後期に見返すときに振り返りやすい。
 
+<br>
+<br>
+<br>
+
 # 演習の内容と補助資料
 ### [年収の多寡の予測 ](http://archive.ics.uci.edu/ml/datasets/Adult)
 “Predict whether income exceeds $50K/yr based on census data. Also known as “”Census Income”” dataset.”
